@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DA9DA4DC1C48ABDE009C4B30"
+               BuildableName = "12.LoopsandNumbers-CalculateS"
+               BlueprintName = "12.LoopsandNumbers-CalculateS"
+               ReferencedContainer = "container:12.LoopsandNumbers-CalculateS.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -13,6 +29,15 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DA9DA4DC1C48ABDE009C4B30"
+            BuildableName = "12.LoopsandNumbers-CalculateS"
+            BlueprintName = "12.LoopsandNumbers-CalculateS"
+            ReferencedContainer = "container:12.LoopsandNumbers-CalculateS.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -23,6 +48,16 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DA9DA4DC1C48ABDE009C4B30"
+            BuildableName = "12.LoopsandNumbers-CalculateS"
+            BlueprintName = "12.LoopsandNumbers-CalculateS"
+            ReferencedContainer = "container:12.LoopsandNumbers-CalculateS.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -32,6 +67,16 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DA9DA4DC1C48ABDE009C4B30"
+            BuildableName = "12.LoopsandNumbers-CalculateS"
+            BlueprintName = "12.LoopsandNumbers-CalculateS"
+            ReferencedContainer = "container:12.LoopsandNumbers-CalculateS.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
